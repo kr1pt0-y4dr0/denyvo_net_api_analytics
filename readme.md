@@ -298,7 +298,7 @@ curl -k -s https://games-launcher.top:8443/login | grep -o 'v=2.5.4'
 
 ## 8. Приложение. Артефакты
 
-`/home/kali/Documents/pentest/evidence/`:
+`/evidence`:
 - `dns.txt`, `subdomains.txt`, `subdomains2.txt` — DNS/поддомены
 - `sslscan.txt`, `cert.txt`, `chain.txt`, `headers.txt` — TLS/заголовки
 - `root.txt`, `wellknown.txt`, `root_curated.txt`, `ffuf_*` — веб-поверхность
